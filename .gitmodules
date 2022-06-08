@@ -1,7 +1,7 @@
 # kind of "sym-linking" in my work so I can compile it via wsl -tfer
 [submodule "ISRT_Preonic_QMK"]
-	path = /keyboards/preonic/tfer
-	url = https://github.com/tfer/ISRT_Preonic_QMK.git
+	path = /keyboards/preonic/keymaps/tfer
+	url = https://github.com/tfer/ISRT_Preonic_QMK
 
 [submodule "lib/chibios"]
 	path = lib/chibios
