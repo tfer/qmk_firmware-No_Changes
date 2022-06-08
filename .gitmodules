@@ -26,3 +26,6 @@
 [submodule "QMK-fork/qmk_firmware-No_Changes/keyboards/preonic/keymaps/tfer"]
 	path = QMK-fork/qmk_firmware-No_Changes/keyboards/preonic/keymaps/tfer
 	url = https://github.com/tfer/ISRT_Preonic_QMK
+[submodule "keyboards/preonic/keymaps/tfer"]
+	path = keyboards/preonic/keymaps/tfer
+	url = https://github.com/tfer/ISRT_Preonic_QMK
